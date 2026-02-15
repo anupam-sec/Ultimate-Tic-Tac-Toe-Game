@@ -21,7 +21,7 @@ An advanced, strategic version of Tic-Tac-Toe built with **Python** and **Pygame
 * **Win Detection**: Complex algorithms to track wins across 9 local boards and 1 global board.
 
 ## 🛠️ Tech Stack
-* **Language**: Python 3.x
+* **Language**: Python 3.12
 * **Library**: Pygame
 * **Version Control**: Git/GitHub
 
