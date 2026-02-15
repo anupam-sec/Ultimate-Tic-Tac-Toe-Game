@@ -1,4 +1,23 @@
-Ultimate Tic-Tac-ToeA strategic, nested version of the classic Tic-Tac-Toe game built with Python and Pygame. Unlike the standard game, Ultimate Tic-Tac-Toe features a $3 \times 3$ grid of smaller Tic-Tac-Toe boards, where your move in a local board determines which board your opponent must play in next.🚀 FeaturesNested Gameplay: A complex "board within a board" mechanic that requires deep strategy.Pygame GUI: A clean, interactive interface with smooth rendering.Dynamic Highlighting: Clearly shows which local board is currently active for a move.Win Detection: Automatically calculates wins for both local boards and the global $3 \times 3$ grid.🛠️ PrerequisitesBefore running the game, ensure you have Python and the Pygame library installed:Bashpip install pygame
-🎮 How to PlayThe Goal: Win three local boards in a row (horizontally, vertically, or diagonally) to win the global board.The Twist: The square you pick in a local board sends your opponent to the corresponding local board on the global grid.Wildcards: If you are sent to a local board that is already won or full, you can play anywhere on the board.📂 Project StructureUltimate_Tic-Tac-Toe.py: The main game logic and GUI implementation.README.md: Project documentation.🔧 Installation & RunningClone the repository:Bashgit clone git@github.com:anupam-sec/Ultimate-Tic-Tac-Toe-Game.git
-Navigate to the directory:Bashcd Ultimate-Tic-Tac-Toe-Game
-Run the game:Bashpython Ultimate_Tic-Tac-Toe.py
+# Ultimate Tic-Tac-Toe (Pygame)
+
+An advanced, strategic version of Tic-Tac-Toe built with **Python** and **Pygame**. This project implements "Ultimate Tic-Tac-Toe," where each square of a 3 x 3 board contains a smaller Tic-Tac-Toe board.
+
+
+
+## 📋 Features
+* **Nested Logic**: The move you make in a local board dictates which board your opponent must play in next.
+* **Interactive GUI**: Built using Pygame with real-time mouse event handling.
+* **Visual Feedback**: Highlighting system to show valid move areas and board states.
+* **Win Detection**: Complex algorithms to track wins across 9 local boards and 1 global board.
+
+## 🛠️ Tech Stack
+* **Language**: Python 3.x
+* **Library**: Pygame
+* **Version Control**: Git/GitHub
+
+## 🚀 Getting Started
+
+### Prerequisites
+Ensure you have Python installed. You will also need the `pygame` library:
+```bash
+pip install pygame
