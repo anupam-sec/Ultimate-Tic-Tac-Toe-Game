@@ -5,11 +5,15 @@ An advanced, strategic version of Tic-Tac-Toe built with **Python** and **Pygame
 ## 🖼️ Gameplay Preview
 
 <p align="center">
-  <img src="screenshots/gameplay-ai-wins.png" width="400" alt="AI Wins Gameplay">
-  <img src="screenshots/gameplay-draw.png" width="400" alt="Game Draw State">
+  <figure>
+    <img src="screenshots/gameplay-ai-wins.png" width="400" alt="AI Wins">
+    <figcaption align="center"><i>Figure 1: UI showing the AI winning the game with the move history on the right.</i></figcaption>
+  </figure>
+  <figure>
+    <img src="screenshots/gameplay-draw.png" width="400" alt="Game Draw">
+    <figcaption align="center"><i>Figure 2: The interface displaying a 'Draw' state across the global board.</i></figcaption>
+  </figure>
 </p>
-
----
 
 ## 📋 Features
 * **Nested Logic**: The move you make in a local board dictates which board your opponent must play in next.
