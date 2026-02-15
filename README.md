@@ -2,7 +2,14 @@
 
 An advanced, strategic version of Tic-Tac-Toe built with **Python** and **Pygame**. This project implements "Ultimate Tic-Tac-Toe," where each square of a 3 x 3 board contains a smaller Tic-Tac-Toe board.
 
+## 🖼️ Gameplay Preview
 
+<p align="center">
+  <img src="screenshots/gameplay-ai-wins.png" width="400" alt="AI Wins Gameplay">
+  <img src="screenshots/gameplay-draw.png" width="400" alt="Game Draw State">
+</p>
+
+---
 
 ## 📋 Features
 * **Nested Logic**: The move you make in a local board dictates which board your opponent must play in next.
