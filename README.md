@@ -5,14 +5,13 @@ An advanced, strategic version of Tic-Tac-Toe built with **Python** and **Pygame
 ## 🖼️ Gameplay Preview
 
 <p align="center">
-  <figure>
-    <img src="screenshots/gameplay-ai-wins.png" width="400" alt="AI Wins">
-    <figcaption align="center"><i>Figure 1: UI showing the AI winning the game with the move history on the right.</i></figcaption>
-  </figure>
-  <figure>
-    <img src="screenshots/gameplay-draw.png" width="400" alt="Game Draw">
-    <figcaption align="center"><i>Figure 2: The interface displaying a 'Draw' state across the global board.</i></figcaption>
-  </figure>
+  <img src="screenshots/gameplay-ai-wins.png" width="450" alt="AI Wins">
+  <br> <i>Figure 1: UI showing the AI winning the game with the move history on the right.</i>
+</p>
+
+<p align="center">
+  <img src="screenshots/gameplay-draw.png" width="450" alt="Game Draw">
+  <br> <i>Figure 2: The interface displaying a 'Draw' state across the global board.</i>
 </p>
 
 ## 📋 Features
