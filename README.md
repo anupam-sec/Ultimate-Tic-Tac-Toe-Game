@@ -21,3 +21,19 @@ An advanced, strategic version of Tic-Tac-Toe built with **Python** and **Pygame
 Ensure you have Python installed. You will also need the `pygame` library:
 ```bash
 pip install pygame
+
+## Installation
+Clone the repository using SSH:
+```bash
+git clone git@github.com:anupam-sec/Ultimate-Tic-Tac-Toe-Game.git
+Navigate to the project folder:
+```bash
+cd Ultimate-Tic-Tac-Toe-Game
+Run the application:
+```bash
+python Ultimate_Tic_Tac_Toe.py
+
+## 🎮 Game Rules
+1. Win three local boards in a row to win the game.
+2. Your opponent is sent to the local board corresponding to the square you just marked.
+3. If you are sent to a board that is already full or won, you can play anywhere (Open Move).
